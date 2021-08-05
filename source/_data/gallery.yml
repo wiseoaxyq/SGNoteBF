@@ -1,0 +1,24 @@
+老古董X识宝:
+  full_link: /gallery/index/1.jpg
+  thumb_link: /gallery/index/1.jpg
+  descr: 老古董X识宝
+背景1:
+  full_link: /gallery/index/2.jpg
+  thumb_link: /gallery/index/2.jpg
+  descr: 背景
+背景2:
+  full_link: /gallery/index/3.jpg
+  thumb_link: /gallery/index/3.jpg
+  descr: 背景
+背景3:
+  full_link: /gallery/index/4.jpg
+  thumb_link: /gallery/index/4.jpg
+  descr: 背景
+logo:
+  full_link: /gallery/index/logo_GC.png
+  thumb_link: /gallery/index/logo_GC.png
+  descr: logo
+me:
+  full_link: /gallery/index/me.jpg
+  thumb_link: /gallery/index/me.jpg
+  descr: me
