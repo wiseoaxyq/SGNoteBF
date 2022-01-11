@@ -10,10 +10,6 @@
   full_link: /gallery/index/3.jpg
   thumb_link: /gallery/index/3.jpg
   descr: 背景
-背景3:
-  full_link: /gallery/index/4.jpg
-  thumb_link: /gallery/index/4.jpg
-  descr: 背景
 logo:
   full_link: /gallery/index/logo_GC.png
   thumb_link: /gallery/index/logo_GC.png
@@ -22,3 +18,47 @@ me:
   full_link: /gallery/index/me.jpg
   thumb_link: /gallery/index/me.jpg
   descr: me
+暴风眼:
+  full_link: https://z3.ax1x.com/2021/08/17/f4NZUx.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4NZUx.jpg
+  desrc: 暴风眼
+失乐园:
+  full_link: https://z3.ax1x.com/2021/08/17/f4NVV1.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4NVV1.jpg
+  desrc: 失乐园
+几何空间:
+  full_link: https://z3.ax1x.com/2021/08/17/f4NAbR.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4NAbR.jpg
+  desrc: 广州
+广州塔:
+  full_link: https://z3.ax1x.com/2021/08/17/f4Nkr9.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4Nkr9.jpg
+  desrc: 广州塔
+家乐:
+  full_link: https://z3.ax1x.com/2021/08/17/f4NPv4.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4NPv4.jpg
+  desrc: 家乐
+布朗熊:
+  full_link: https://z3.ax1x.com/2021/08/17/f4NC2F.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4NC2F.jpg
+  desrc: 布朗熊
+影:
+  full_link: https://z3.ax1x.com/2021/08/17/f4N98U.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4N98U.jpg
+  desrc: 影
+家肥屋润:
+  full_link: https://z3.ax1x.com/2021/08/17/f4NpCT.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4NpCT.jpg
+  desrc: 家肥屋润
+捞乜都掂:
+  full_link: https://z3.ax1x.com/2021/08/17/f4tz5V.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4tz5V.jpg
+  desrc: 捞乜都掂
+海岸:
+  full_link: https://z3.ax1x.com/2021/08/17/f4txU0.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4txU0.jpg
+  desrc: 海岸
+烛:
+  full_link: https://z3.ax1x.com/2021/08/17/f4tvEq.jpg
+  thumb_link: https://z3.ax1x.com/2021/08/17/f4tvEq.jpg
+  desrc: 烛

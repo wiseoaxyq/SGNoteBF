@@ -140,7 +140,8 @@ ___
 ![alt 属性文本](图片地址 "可选标题")
 ```
 #### 例：
-![me](firstnote/imgs/me.jpg "me")
+![me](https://z3.ax1x.com/2021/08/16/f2Hxdx.jpg "me")
+<!-- [![f2Hxdx.jpg](https://z3.ax1x.com/2021/08/16/f2Hxdx.jpg)](https://imgtu.com/i/f2Hxdx) -->
 
 ***
 
@@ -161,5 +162,5 @@ ___
 | 单元格 | 单元格 | 单元格 |
 | 单元格 | 单元格 | 单元格 |
 <center>
-	<img src="firstnote/imgs/logo_GC.png" width="100" height="100">
+	<img src="https://z3.ax1x.com/2021/08/16/f2Hzo6.png" width="100" height="100">
 </center>

@@ -99,17 +99,16 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: miccall
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/wiseoaxyq/wiseoaxyq.github.io.git
-  branch: main
-
-
 # search:
 #   pash: search.xml
 #   field: post
 #   format: html
 #   limit: 10000
-#   content: true
+
+# Deployment
+## Docs: https://hexo.io/docs/one-command-deployment
+deploy:
+  type: git
+  # repo: https://github.com/wiseoaxyq/wiseoaxyq.github.io.git
+  repo: git@github.com:wiseoaxyq/wiseoaxyq.github.io.git
+  branch: main
