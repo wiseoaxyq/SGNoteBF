@@ -9,6 +9,8 @@ thumbnail: /imgs/bg.jpg
 ## 这是我的第一篇博客
 ### 就记录下Markdown的一些基础语法吧。
 
+<!-- more -->
+
 ### 1、标题
 ```
 # 一级标题

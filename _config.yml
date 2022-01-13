@@ -5,7 +5,7 @@
 # Site
 title: SG's Notes
 subtitle: '学绅的学习博客'
-description: ''
+description: 'Peace and love'
 keywords: 
 author: 学绅
 language: zh-CN
@@ -25,7 +25,7 @@ source_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
-category_dir: categories
+categories_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -97,13 +97,16 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: miccall
+theme: next
+# theme: miccall
+# 更换主题 原主题：miccall
 
-# search:
-#   pash: search.xml
-#   field: post
-#   format: html
-#   limit: 10000
+search:
+  pash: search.xml
+  field: post
+  # content: true
+  format: html
+  limit: 10000
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
