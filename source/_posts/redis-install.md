@@ -1,9 +1,10 @@
----
 title: redis的安装
-date: 2022-01-10 14:07:36
-tags: note
-categories: note
-thumbnail: https://s4.ax1x.com/2022/01/10/7E2SBT.png
+tags:
+  - note
+categories:
+  - note
+thumbnail: 'https://s4.ax1x.com/2022/01/10/7E2SBT.png'
+date: 2022-01-10 14:07:00
 ---
 <img src="https://s4.ax1x.com/2022/01/10/7ErYuD.png" alt="redis" width="auto" height="50">  
 
@@ -46,7 +47,7 @@ redis-server --service-install redis.windows.conf
 之后到services.msc中查看，已经将redis服务添加，之后直接在这里启动redis服务即可使用，并且是开机自启。
 <img src="https://s4.ax1x.com/2022/01/10/7Erp7j.png" alt="redis" width="auto" height="200">
 
-##### 4、修改redis的端口号：
+##### 4、修改redis的端口号
 打开redis的安装目录，打开redis.windows.conf文件，找到port,将端口号更改为需要的端口号。
 <img src="https://s4.ax1x.com/2022/01/10/7EreuF.png" alt="redis" width="auto" height="300">
 
