@@ -14,6 +14,6 @@ date: 2021-07-31 11:43:43
 
 <center>	
 	<h3>这里是学绅的个人学习博客，建设中...</h3>
-	<h3>This is SG's personal learning blog, Building... administrator</h3>.
+	<h3>Here is SG's personal learning blog, under construction...</h3>.
 	<img src="logo_GC.png" width="100" height="100">
 </center>
