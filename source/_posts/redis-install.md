@@ -1,6 +1,6 @@
 title: redis的安装
 tags:
-  - note
+  - redis
 categories:
   - note
 thumbnail: 'https://s4.ax1x.com/2022/01/10/7E2SBT.png'

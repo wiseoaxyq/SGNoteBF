@@ -1,9 +1,10 @@
----
 title: git的使用
-date: 2021-08-03 15:29:39
-tags: note
-categories: note
-thumbnail: https://z3.ax1x.com/2021/08/16/f2bllQ.png
+tags:
+  - git
+categories:
+  - note
+thumbnail: 'https://z3.ax1x.com/2021/08/16/f2bllQ.png'
+date: 2021-08-03 15:29:00
 ---
 ## 一、本地仓库
 首先，把你想要创建版本库的文件夹打开，可以是有项目的文件夹，也可以是空文件夹。（windows用户请注意避免中文路径哦！）

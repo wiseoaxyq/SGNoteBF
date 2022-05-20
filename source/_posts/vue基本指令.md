@@ -1,7 +1,7 @@
 ---
 title: vue基本指令
 date: 2022-05-05 08:50:14
-tags: note
+tags: Vue
 categories: note
 ---
 Mustache语法：{{message}}
