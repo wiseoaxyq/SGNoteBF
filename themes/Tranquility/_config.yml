@@ -27,8 +27,8 @@ subpage: # 开启“子页”功能，详见 README
 index: # 配置首页个性化内容
   motto: "但行好事 莫问前程"
   poem:
-    - 君不见高堂明镜悲白发
-    - 朝如青丝暮成雪
+    - 酒入豪肠,七分酿成了月光
+    - 余下的三分啸成剑气  绣口一吐就半个盛唐
   photo: /images/about.jpg
   about:
     title: 我
@@ -42,7 +42,7 @@ index: # 配置首页个性化内容
 foot:
   title:
     - "愿时光永驻"
-    - "愿星辰永逸"
+    - "愿星辰永熠"
 
 # links: # 朋友
 #   - name: "Theme Tranquility"
