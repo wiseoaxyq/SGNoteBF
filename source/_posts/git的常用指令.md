@@ -3,6 +3,8 @@ title: git的常用指令
 date: 2022-05-20 09:49:10
 tags: git
 categories: note
+# 加入时间线
+selected: true
 ---
 ## 一、提交代码到仓库
 ### 添加到本地仓库
@@ -13,8 +15,6 @@ $ git add <xxx>
 //添加全部文件
 $ git add .
 ```
-
-<!-- more -->
 
 ### 提交到本地仓库，并添加描述信息
 ``` html

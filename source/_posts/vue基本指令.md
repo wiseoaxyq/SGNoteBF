@@ -3,6 +3,8 @@ title: vue基本指令
 date: 2022-05-05 08:50:14
 tags: Vue
 categories: note
+# 加入时间线
+selected: true
 ---
 Mustache语法：{{message}}
 
@@ -27,8 +29,6 @@ Mustache语法：{{message}}
 ``` html
 <div id="app" v-once>{{message}}</div>
 ```
-
-<!-- more -->
 
 ## v-html
 "v-html" ：解析服务器返回的数据，并以链接的形式在dom上展示

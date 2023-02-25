@@ -3,16 +3,15 @@ tags:
   - redis
 categories:
   - note
-thumbnail: 'https://s4.ax1x.com/2022/01/10/7E2SBT.png'
 date: 2022-01-10 14:07:00
+# 加入时间线
+selected: true
 ---
 <img src="https://s4.ax1x.com/2022/01/10/7ErYuD.png" alt="redis" width="auto" height="50">  
 
 ## redis Windows环境下的安装
 github上有redis的安装包：<https://github.com/tporadowski/redis/releases>
 这里主要介绍的是redis.zip的安装。
-
-<!-- more -->
 
 ##### 1、下载redis：
 首先下载redis for windows.zip，redis支持32/64位，但github上一般都是64位的。下载解压后将解压好的文件夹放到你要安装的目录下。

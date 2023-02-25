@@ -3,7 +3,11 @@ title: First's Note
 date: 2021-08-02 10:12:04
 tags: note
 categories: note
-thumbnail: /imgs/bg.jpg
+cover: https://z3.ax1x.com/2021/08/16/f2Hzo6.png
+# 加入时间线
+selected: true
+# 时间对象
+type: event
 ---
 
 ## 这是我的第一篇博客

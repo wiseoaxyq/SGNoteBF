@@ -3,6 +3,8 @@ title: sql server查询对字符串进行截取
 date: 2022-08-31 14:37:30
 tags: sql server
 categories: note
+# 加入时间线
+selected: true
 ---
  # substring的用法
  sql server中，使用查询时，提出一个字段中的其中一部分。

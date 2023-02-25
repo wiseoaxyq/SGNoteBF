@@ -3,6 +3,8 @@ title: vue组件化的初级使用
 date: 2022-06-22 16:15:14
 tags: Vue
 categories: note
+# 加入时间线
+selected: true
 ---
 
 # vue的组件化的初级使用

@@ -3,7 +3,11 @@ title: DIY PC监视器
 date: 2021-08-14 16:28:07
 tags: DIY
 categories: DIY
-thumbnail: https://z3.ax1x.com/2021/08/16/f2bnFf.jpg
+cover: https://z3.ax1x.com/2021/08/16/f2bnFf.jpg
+# 加入时间线
+selected: true
+# 时间对象
+type: event
 ---
 
 <p>这是我第一次动手废物利用。</p>
@@ -49,6 +53,7 @@ thumbnail: https://z3.ax1x.com/2021/08/16/f2bnFf.jpg
 #### 三、成品效果
 <p>接下来让我们看看效果：</p>
 <video src="diy-monitor2.mp4" controls="controls" width="300" height="auto">测试</video>
+
 <img src="https://z3.ax1x.com/2021/08/16/f2bVeI.jpg" alt="效果" width="auto" height="300"> 
 
 <img src="https://z3.ax1x.com/2021/08/16/f2buY8.jpg" alt="效果" width="auto" height="300">

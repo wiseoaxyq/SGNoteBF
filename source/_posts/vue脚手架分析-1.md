@@ -5,6 +5,8 @@ tags:
 categories:
   - note
 date: 2022-12-20 14:23:00
+# 加入时间线
+selected: true
 ---
 # vue脚手架分析
 
@@ -41,8 +43,6 @@ tips: 可使用此指定检查vue是否安装成功 ``vue -V``
 	├── README.md: 应用描述文件
 	├── package-lock.json：包版本控制文件
     
-    
-<!-- more -->
 
     
 ## 三. 主要文件结构分析

@@ -4,7 +4,7 @@
 
 # Site
 title: SG's Blog
-subtitle: '学绅的学习博客'
+subtitle: '学绅的博客'
 description: 'Peace and love'
 keywords: 
 author: 学绅
@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: Tranquility
+# theme: next
 # theme: miccall
 # 更换主题 原主题：miccall
 
