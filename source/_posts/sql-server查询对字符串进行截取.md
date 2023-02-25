@@ -6,6 +6,7 @@ categories: note
 # 加入时间线
 selected: true
 ---
+
  # substring的用法
  sql server中，使用查询时，提出一个字段中的其中一部分。
 

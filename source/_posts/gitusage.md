@@ -1,12 +1,16 @@
+---
 title: git的使用
-tags:
-  - git
-categories:
-  - note
+tags: git
+categories: note
 date: 2021-08-03 15:29:00
 # 加入时间线
 selected: true
 ---
+
+git 初始化本地/远程仓库的说明
+
+<!-- more -->
+
 ## 一、本地仓库
 首先，把你想要创建版本库的文件夹打开，可以是有项目的文件夹，也可以是空文件夹。（windows用户请注意避免中文路径哦！）
 右键选择 “git bash here”  ~~前提是你已经装了git（不是）~~

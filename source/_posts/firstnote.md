@@ -3,15 +3,16 @@ title: First's Note
 date: 2021-08-02 10:12:04
 tags: note
 categories: note
-cover: https://z3.ax1x.com/2021/08/16/f2Hzo6.png
+# cover: https://z3.ax1x.com/2021/08/16/f2Hzo6.png
 # 加入时间线
 selected: true
 # 时间对象
 type: event
 ---
 
-## 这是我的第一篇博客
-### 就记录下Markdown的一些基础语法吧。
+这是我的第一篇博客
+
+就记录下Markdown的一些基础语法吧。
 
 <!-- more -->
 

@@ -1,13 +1,17 @@
+---
 title: vue脚手架分析
 author: 学绅
-tags:
-  - Vue
-categories:
-  - note
+tags: Vue
+categories: note
 date: 2022-12-20 14:23:00
 # 加入时间线
 selected: true
 ---
+
+vue脚手架文件结构分析
+
+<!-- more -->
+
 # vue脚手架分析
 
 ## 一. 初始化脚手架

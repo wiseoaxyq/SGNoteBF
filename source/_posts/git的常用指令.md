@@ -6,6 +6,11 @@ categories: note
 # 加入时间线
 selected: true
 ---
+
+git 提交/推送/拉取等一些常用的指令
+
+<!-- more -->
+
 ## 一、提交代码到仓库
 ### 添加到本地仓库
 ``` html

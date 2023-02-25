@@ -6,7 +6,8 @@ categories: note
 # 加入时间线
 selected: true
 ---
-Mustache语法：{{message}}
+
+# Mustache语法：{ { message } }
 
 # vue基础数据 👇
 ``` js

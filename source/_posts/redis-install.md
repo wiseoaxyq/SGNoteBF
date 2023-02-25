@@ -1,12 +1,18 @@
+---
 title: redis的安装
-tags:
-  - redis
-categories:
-  - note
+tags: redis
+categories: note
 date: 2022-01-10 14:07:00
 # 加入时间线
 selected: true
 ---
+
+记录redis环境的安装说明（服务器端）
+
+用于部署无远Enhancer开发的系统（首次部署应用时所需准备的基础环境配置步骤，后续应用部署不需要）
+
+<!-- more -->
+
 <img src="https://s4.ax1x.com/2022/01/10/7ErYuD.png" alt="redis" width="auto" height="50">  
 
 ## redis Windows环境下的安装
