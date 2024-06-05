@@ -114,6 +114,5 @@ search:
 deploy:
   type: git
   repo: https://github.com/wiseoaxyq/wiseoaxyq.github.io.git
-  # repo: https://gitee.com/wiseoa/sgblog_deploy.git
+  # repo: git@github.com:wiseoaxyq/wiseoaxyq.github.io.git
   branch: main
-  # branch: master
