@@ -23,6 +23,11 @@ subpage: # 开启“子页”功能，详见 README
       title: 兴趣使然 # 菜单名，如 开发者
       icon: /images/icon/icon-pi.svg # 图标的路径
       description: # 描述
+    - name: myself # 文章的分类（category）名，如 developer
+      path: # 若不设置则默认使用 name
+      title: 我 # 菜单名，如 开发者
+      icon: /images/icon/my.png # 图标的路径
+      description: # 描述
 
 index: # 配置首页个性化内容
   motto: "但行好事 莫问前程"
@@ -52,9 +57,9 @@ social: # 账号
   - name: "github"
     icon: "/images/logo-github.svg"
     url: https://github.com/wiseoaxyq/
-  - name: "友链-微信公众号"
-    icon: "/images/logo-wx.svg"
-    url: https://mp.weixin.qq.com/s/pgEVjoSVOyBi2xhCUna6HQ
+  # - name: "友链-微信公众号"
+  #   icon: "/images/logo-wx.svg"
+  #   url: https://mp.weixin.qq.com/s/pgEVjoSVOyBi2xhCUna6HQ
   # - name: "知乎"
   #   icon: "/images/logo-zh.svg"
   #   url: https://www.zhihu.com/

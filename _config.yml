@@ -113,7 +113,7 @@ search:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  # repo: https://github.com/wiseoaxyq/wiseoaxyq.github.io.git
-  repo: https://gitee.com/wiseoa/sgblog_deploy.git
-  # branch: main
-  branch: master
+  repo: https://github.com/wiseoaxyq/wiseoaxyq.github.io.git
+  # repo: https://gitee.com/wiseoa/sgblog_deploy.git
+  branch: main
+  # branch: master
